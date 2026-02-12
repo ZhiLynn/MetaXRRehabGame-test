@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 14f68e61c5cf54643b2c15b4c5432948
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224859
+  packageName: Low Poly Fishes
+  packageVersion: 1.0
+  assetPath: Assets/Low Poly Fishes/Scenes/Animator Controllers/Fishes.controller
+  uploadId: 506558

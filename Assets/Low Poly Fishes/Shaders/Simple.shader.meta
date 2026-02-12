@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9ba0ed27c3d374f46a65cafbd6d1e179
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224859
+  packageName: Low Poly Fishes
+  packageVersion: 1.0
+  assetPath: Assets/Low Poly Fishes/Shaders/Simple.shader
+  uploadId: 506558

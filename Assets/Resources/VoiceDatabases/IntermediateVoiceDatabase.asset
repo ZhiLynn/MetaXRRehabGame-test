@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c586c5860d71d414785f2f62423de8ec, type: 3}
+  m_Name: IntermediateVoiceDatabase
+  m_EditorClassIdentifier: 
+  voice_1_Red: {fileID: 8300000, guid: 0b8c122527eb0c94a929366114bab211, type: 3}
+  voice_2_Red: {fileID: 8300000, guid: 39b55f499931aa6459407aa85bdb5cd1, type: 3}
+  voice_3_Red: {fileID: 8300000, guid: c0f022f2580d776459fd41e483842fc1, type: 3}
+  voice_4_Red: {fileID: 8300000, guid: aba8d427ffcff0844a8eff6d3742d90c, type: 3}
+  voice_5_Red: {fileID: 8300000, guid: d52e3425139bcda4a8b7fd7b6eeae674, type: 3}
+  voice_1_Blue: {fileID: 8300000, guid: ec31fc79bae0ff441839abf1e9b53dee, type: 3}
+  voice_2_Blue: {fileID: 8300000, guid: b7e0c723ae201ef4c90a4aacbb35d702, type: 3}
+  voice_3_Blue: {fileID: 8300000, guid: 37352226bb27505448bb2f85f625f9df, type: 3}
+  voice_4_Blue: {fileID: 8300000, guid: 9456c9a72ac3d2b448d0696ada5e1118, type: 3}
+  voice_5_Blue: {fileID: 8300000, guid: d9b1e983ef06e0341983be14335beddc, type: 3}
+  voice_1_Green: {fileID: 8300000, guid: b13765eaddd3d6b4c839c99ba995e848, type: 3}
+  voice_2_Green: {fileID: 8300000, guid: 3c9a9da58088fe94bb9778ac818f9037, type: 3}
+  voice_3_Green: {fileID: 8300000, guid: 6b6c795eb8175364e84e5d3e169cf09f, type: 3}
+  voice_4_Green: {fileID: 8300000, guid: 3e005c74bab0edd4087d9a409237c3c3, type: 3}
+  voice_5_Green: {fileID: 8300000, guid: 6e88b01ae40c1c949a56351182ba8995, type: 3}
+  connector_And: {fileID: 8300000, guid: 7e1b6d00b30a10443af20b6c46efbf22, type: 3}

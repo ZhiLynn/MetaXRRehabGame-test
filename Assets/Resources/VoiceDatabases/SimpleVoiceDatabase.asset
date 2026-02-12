@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c72ac1da18ca6a4ab77d0bd29c303c8, type: 3}
+  m_Name: SimpleVoiceDatabase
+  m_EditorClassIdentifier: 
+  voice_1Fish: {fileID: 8300000, guid: 123db3e737ab9ca4c9f3fd43c508419c, type: 3}
+  voice_2Fish: {fileID: 8300000, guid: 69fea8931adddc64d8e6cdacc99c0111, type: 3}
+  voice_3Fish: {fileID: 8300000, guid: 05453284034435e47aae88ffb4b50a04, type: 3}
+  voice_4Fish: {fileID: 8300000, guid: 3cc2bae0ef4132445911e986b27c03ef, type: 3}
+  voice_5Fish: {fileID: 8300000, guid: 287c000935e59cf479dace60a1fe8f5a, type: 3}

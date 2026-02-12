@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eac1e16b9c7074a098d9bfdb4fe39777
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224859
+  packageName: Low Poly Fishes
+  packageVersion: 1.0
+  assetPath: Assets/Low Poly Fishes/Scenes/Scripts/SwtichAnimals.cs
+  uploadId: 506558
